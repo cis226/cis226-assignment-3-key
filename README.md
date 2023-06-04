@@ -2,7 +2,7 @@
 
 ## Author
 
-
+David Barnes
 
 ## Description
 
@@ -153,8 +153,8 @@ You may not need to override the `__str__` method in child classes. You certainl
 
 ## Outside Resources Used
 
-
+None
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
-
+None

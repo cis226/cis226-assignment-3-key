@@ -1,5 +1,9 @@
 """User Interface Module"""
 
+# David Barnes
+# CIS 226
+# 6-4-2023
+
 # First-party imports
 from colors import (
     print_error,

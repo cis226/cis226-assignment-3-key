@@ -1,5 +1,9 @@
 """Program code"""
 
+# David Barnes
+# CIS 226
+# 6-4-2023
+
 # First-party imports
 from droids import DroidCollection
 from userinterface import UserInterface
